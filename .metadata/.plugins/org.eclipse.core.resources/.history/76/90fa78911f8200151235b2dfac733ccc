@@ -1,0 +1,16 @@
+
+public class Looptest {
+
+	public static void main(String args[]){
+
+String x = "hi";
+while(x=="hi"){
+		System.out.println(x);
+		
+
+
+}
+	
+}
+	
+}
